@@ -19,3 +19,8 @@
 ### Aspect	         Iterative Approach	   Recursive Approach
 * Time Complexity	   O(log n)	               O(log n)
 * Space Complexity	     O(1)	               O(log n)
+
+## Stunde Information
+  * Name: Natnael Tsedeke
+  * ID: RMNS-7783/23
+  * Course: DSA
